@@ -12,6 +12,13 @@ password: bdung  # If authentication is required
 ```
 # Run
 
+Dokckerize server
+
+```
+docker-compose up -d
+```
+
+python client to communicate to server
 ```
 python3 -m venv env
 source env/bin/activate
