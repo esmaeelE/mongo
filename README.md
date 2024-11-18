@@ -10,6 +10,12 @@ port: 27017  # Default MongoDB port
 username: mongoadmin  # If authentication is required
 password: bdung  # If authentication is required
 ```
+
+# Usage
+
+In vscode install [Database Client](https://open-vsx.org/extension/cweijan/vscode-database-client2) extension and connect to server.
+
+
 # Run
 
 Dokckerize server
@@ -24,11 +30,9 @@ python3 -m venv env
 source env/bin/activate
 python3 -m pip install pymongo
 ```
-
+---
 
 [Based on baeldung article](https://www.baeldung.com/linux/mongodb-as-docker-container)
-
-
 
 https://github.com/mongodb/mongo-tools
 
