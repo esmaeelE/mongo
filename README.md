@@ -32,3 +32,9 @@ python3 -m pip install pymongo
 
 https://github.com/mongodb/mongo-tools
 
+
+# CLI
+
+https://github.com/esmaeelE/database/blob/master/scripts/mongodb.md
+
+
